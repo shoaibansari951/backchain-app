@@ -1,0 +1,15 @@
+.messages {
+    padding: 0 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    line-height: 47px;
+    background-color: #D4EDDA;
+    color: #155776;
+}
+.cancel {
+    margin-top: 6px;
+}
+.cancel:focus {
+    box-shadow: none;
+}

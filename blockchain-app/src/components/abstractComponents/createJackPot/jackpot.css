@@ -1,0 +1,22 @@
+.createJackpot {
+    width: 100%;
+    border-style: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #4F26F7;
+    color: white;
+    font-size: 15px;
+}
+.heading {
+    text-align: center;
+}
+.jackpot {
+
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin: 15px;
+    border-radius: 8px;
+}
+.form {
+    margin: 5px;
+    padding:10px;
+}
